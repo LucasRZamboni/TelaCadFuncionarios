@@ -1,0 +1,54 @@
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.exe.config
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.exe
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.pdb
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Form1.resources
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Properties.Resources.resources
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.exe
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.pdb
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Form1.resources
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Pesquisa.resources
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Properties.Resources.resources
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.exe
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.pdb
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.mdf
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs_log.ldf
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.exe.config
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.exe
+C:\Users\aluno\Desktop\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.pdb
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.mdf
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs_log.ldf
+C:\Users\Usuario\Desktop\PASTA1\Nova pasta (2)\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Pesquisa.resources
+D:\C#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.AssemblyReference.cache
+D:\C#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Form1.resources
+D:\C#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Pesquisa.resources
+D:\C#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Properties.Resources.resources
+D:\C#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.GenerateResource.cache
+D:\C#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.CoreCompileInputs.cache
+D:\C#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.exe
+D:\C#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.pdb
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.exe.config
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.exe
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\CadastroFuncs.pdb
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\EntityFramework.dll
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\EntityFramework.SqlServer.dll
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\System.Data.SQLite.dll
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\EntityFramework.xml
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\EntityFramework.SqlServer.xml
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\bin\Debug\System.Data.SQLite.xml
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.AssemblyReference.cache
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.SuggestedBindingRedirects.cache
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Form1.resources
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.Properties.Resources.resources
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.GenerateResource.cache
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.CoreCompileInputs.cache
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.csproj.CopyComplete
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.exe
+D:\Backup\c#\CadastroFuncs\CadastroFuncs\obj\Debug\CadastroFuncs.pdb

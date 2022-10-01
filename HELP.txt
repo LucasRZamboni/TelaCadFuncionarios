@@ -1,0 +1,17 @@
+https://www.devmedia.com.br/como-criar-um-sistema-de-cadastro-em-csharp-com-stored-procedures/32004
+
+
+
+
+Id, Nome, Sobrenome, Apelido, RG, CPF, DataNascimento, Telefone, Email, Celular, Recado, CEP, Endereco, UF, Cidade, Bairro, Numero, Complemento, Admissao, Demissao, Cargo, Setor, PIS, CTPS, Serie, TitutoEleitor, Observacoes
+
+
+
+11997385420
+
+
+Id =  @Id, Nome =  @Nome, Sobrenome =  @Sobrenome, Apelido =  @Apelido, RG =  @RG, CPF =  @CPF, DataNascimento =  @DataNascimento, Telefone =  @Telefone, Email =  @Email, Celular =  @Celular, Recado =  @Recado, CEP =  @CEP, Endereco =  @Endereco, UF =  @UF, Cidade =  @Cidade, Bairro =  @Bairro, Numero =  @Numero, Complemento =  @Complemento, Admissao =  @Admissao, Demissao =  @Demissao, Cargo =  @Cargo, Setor =  @Setor, PIS =  @PIS, CTPS =  @CTPS, Serie =  @Serie, TitutoEleitor =  @TitutoEleitor, Observacoes = @Observacoes
+
+
+
+tb_uf.Text, tb_cidade.Text, tb_bairro.Text, tb_endereço.Text, mTB_CEP.Text, tb_numero.Text, tb_id.Text, tb_nome.Text, tb_sobrenome.Text, tb_apelido.Text, mTB_RG.Text, mTB_CPF.Text, mTB_Nascimento.Text, mTB_Telefone.Text, tb_email.Text, mTB_Celular.Text, mTB_Recado.Text, mTB_admissao.Text, mTB_demissao.Text, tb_cargo.Text, cb_setor.Text, mTB_pis.Text, mTB_ctps.Text, mTB_serie.Text, mTB_tituloeleitor.Text, rTB_obs.Text,
