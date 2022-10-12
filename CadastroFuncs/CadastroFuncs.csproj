@@ -93,8 +93,10 @@
     <Compile Include="Form1 .Designer.cs">
       <DependentUpon>Form1 .cs</DependentUpon>
     </Compile>
+    <Compile Include="LocalizarCPF.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Variaveis.cs" />
     <EmbeddedResource Include="Form1 .resx">
       <DependentUpon>Form1 .cs</DependentUpon>
     </EmbeddedResource>
@@ -327,6 +329,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\cruz.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cruz3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cruz1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

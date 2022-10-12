@@ -21,29 +21,13 @@ namespace CadastroFuncs
 
         public void button1_Click(object sender, EventArgs e)//PESQUISA O CPF 
         {
-            if (!string.IsNullOrWhiteSpace(mTB_CEP.Text))
-            {
-                using (var ws = new WSCorreios.AtendeClienteClient())
-                {
-                    try
-                    {
-                        var endereco = ws.consultaCEP(mTB_CEP.Text.Trim());
-
-                        tb_uf.Text = endereco.uf;
-                        tb_cidade.Text = endereco.cidade;
-                        tb_bairro.Text = endereco.bairro;
-                        tb_endereço.Text = endereco.end;
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show(ex.Message, this.Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
-                }
-            }
-            else
-            {
-                MessageBox.Show("Informe um CEP válido...", this.Text, MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+            Variaveis.CEP = Convert.ToString(mTB_CEP.Text);
+            LocalizarCPF.Localizar();
+            tb_cidade.Text = Variaveis.CIDADE;
+            tb_bairro.Text = Variaveis.BAIRRO;
+            tb_endereço.Text = Variaveis.ENDERECO;
+            tb_uf.Text = Variaveis.ESTADO;
+            
         }
 
         private void button2_Click(object sender, EventArgs e)// FECHA O PROGRAMA
@@ -60,7 +44,7 @@ namespace CadastroFuncs
             mTB_CEP.Text = string.Empty;
             tb_numero.Text = string.Empty;
 
-            tb_id.Text = string.Empty;
+            
             tb_nome.Text = string.Empty;
             tb_sobrenome.Text = string.Empty;
             tb_apelido.Text = string.Empty;
@@ -92,6 +76,33 @@ namespace CadastroFuncs
             {
                 bt_Alterar.Enabled = false;
                 bt_Excluir.Enabled = false;
+            }
+
+            
+            
+        }
+        private bool mover;
+        private int cX, cY;
+        private void panel1_MouseUp(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+                mover = false;
+        }
+        private void panel1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (mover)
+            {
+                this.Left += e.X - (cX - panel4.Left);
+                this.Top += e.Y - (cY - panel4.Top);
+            }
+        }
+        private void panel1_MouseDown(object sender, MouseEventArgs e)
+        {
+            if (e.Button == MouseButtons.Left)
+            {
+                cX = e.X;
+                cY = e.Y;
+                mover = true;
             }
         }
 
