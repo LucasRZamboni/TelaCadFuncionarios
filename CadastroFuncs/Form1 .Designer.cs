@@ -94,10 +94,12 @@ namespace CadastroFuncs
             this.bt_Cadastrar = new System.Windows.Forms.Button();
             this.bt_sair = new System.Windows.Forms.Button();
             this.panel4 = new System.Windows.Forms.Panel();
+            this.panel5 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
             this.panel4.SuspendLayout();
+            this.panel5.SuspendLayout();
             this.SuspendLayout();
             // 
             // tb_uf
@@ -226,7 +228,7 @@ namespace CadastroFuncs
             this.label7.AutoSize = true;
             this.label7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label7.Font = new System.Drawing.Font("Arial Narrow", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.Location = new System.Drawing.Point(246, 34);
+            this.label7.Location = new System.Drawing.Point(249, 0);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(277, 31);
             this.label7.TabIndex = 17;
@@ -368,7 +370,7 @@ namespace CadastroFuncs
             // 
             // mTB_admissao
             // 
-            this.mTB_admissao.Location = new System.Drawing.Point(29, 34);
+            this.mTB_admissao.Location = new System.Drawing.Point(23, 34);
             this.mTB_admissao.Mask = "00/00/0000";
             this.mTB_admissao.Name = "mTB_admissao";
             this.mTB_admissao.Size = new System.Drawing.Size(80, 20);
@@ -380,7 +382,7 @@ namespace CadastroFuncs
             // 
             this.label17.AutoSize = true;
             this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label17.Location = new System.Drawing.Point(27, 17);
+            this.label17.Location = new System.Drawing.Point(21, 17);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(60, 13);
             this.label17.TabIndex = 36;
@@ -388,7 +390,7 @@ namespace CadastroFuncs
             // 
             // mTB_demissao
             // 
-            this.mTB_demissao.Location = new System.Drawing.Point(115, 34);
+            this.mTB_demissao.Location = new System.Drawing.Point(109, 34);
             this.mTB_demissao.Mask = "00/00/0000";
             this.mTB_demissao.Name = "mTB_demissao";
             this.mTB_demissao.Size = new System.Drawing.Size(80, 20);
@@ -400,7 +402,7 @@ namespace CadastroFuncs
             // 
             this.label18.AutoSize = true;
             this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.Location = new System.Drawing.Point(113, 17);
+            this.label18.Location = new System.Drawing.Point(107, 17);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(61, 13);
             this.label18.TabIndex = 38;
@@ -462,7 +464,7 @@ namespace CadastroFuncs
             // 
             // tb_cargo
             // 
-            this.tb_cargo.Location = new System.Drawing.Point(29, 86);
+            this.tb_cargo.Location = new System.Drawing.Point(23, 86);
             this.tb_cargo.Name = "tb_cargo";
             this.tb_cargo.Size = new System.Drawing.Size(166, 20);
             this.tb_cargo.TabIndex = 46;
@@ -471,7 +473,7 @@ namespace CadastroFuncs
             // 
             this.label22.AutoSize = true;
             this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label22.Location = new System.Drawing.Point(29, 70);
+            this.label22.Location = new System.Drawing.Point(23, 70);
             this.label22.Name = "label22";
             this.label22.Size = new System.Drawing.Size(40, 13);
             this.label22.TabIndex = 47;
@@ -481,7 +483,7 @@ namespace CadastroFuncs
             // 
             this.label23.AutoSize = true;
             this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label23.Location = new System.Drawing.Point(29, 113);
+            this.label23.Location = new System.Drawing.Point(23, 113);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(37, 13);
             this.label23.TabIndex = 49;
@@ -491,7 +493,7 @@ namespace CadastroFuncs
             // 
             this.label24.AutoSize = true;
             this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label24.Location = new System.Drawing.Point(85, 163);
+            this.label24.Location = new System.Drawing.Point(79, 163);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(39, 13);
             this.label24.TabIndex = 51;
@@ -499,7 +501,7 @@ namespace CadastroFuncs
             // 
             // mTB_ctps
             // 
-            this.mTB_ctps.Location = new System.Drawing.Point(85, 180);
+            this.mTB_ctps.Location = new System.Drawing.Point(79, 180);
             this.mTB_ctps.Mask = "0000000";
             this.mTB_ctps.Name = "mTB_ctps";
             this.mTB_ctps.Size = new System.Drawing.Size(50, 20);
@@ -507,7 +509,7 @@ namespace CadastroFuncs
             // 
             // mTB_serie
             // 
-            this.mTB_serie.Location = new System.Drawing.Point(141, 179);
+            this.mTB_serie.Location = new System.Drawing.Point(135, 179);
             this.mTB_serie.Mask = "000-0";
             this.mTB_serie.Name = "mTB_serie";
             this.mTB_serie.Size = new System.Drawing.Size(35, 20);
@@ -517,7 +519,7 @@ namespace CadastroFuncs
             // 
             this.label25.AutoSize = true;
             this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label25.Location = new System.Drawing.Point(141, 163);
+            this.label25.Location = new System.Drawing.Point(135, 163);
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(36, 13);
             this.label25.TabIndex = 53;
@@ -525,7 +527,7 @@ namespace CadastroFuncs
             // 
             // mTB_pis
             // 
-            this.mTB_pis.Location = new System.Drawing.Point(29, 180);
+            this.mTB_pis.Location = new System.Drawing.Point(23, 180);
             this.mTB_pis.Mask = "0000000000";
             this.mTB_pis.Name = "mTB_pis";
             this.mTB_pis.Size = new System.Drawing.Size(50, 20);
@@ -535,7 +537,7 @@ namespace CadastroFuncs
             // 
             this.label26.AutoSize = true;
             this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label26.Location = new System.Drawing.Point(29, 163);
+            this.label26.Location = new System.Drawing.Point(23, 163);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(27, 13);
             this.label26.TabIndex = 55;
@@ -543,7 +545,7 @@ namespace CadastroFuncs
             // 
             // mTB_tituloeleitor
             // 
-            this.mTB_tituloeleitor.Location = new System.Drawing.Point(29, 225);
+            this.mTB_tituloeleitor.Location = new System.Drawing.Point(23, 225);
             this.mTB_tituloeleitor.Mask = "0000 0000 0000 00";
             this.mTB_tituloeleitor.Name = "mTB_tituloeleitor";
             this.mTB_tituloeleitor.Size = new System.Drawing.Size(106, 20);
@@ -553,7 +555,7 @@ namespace CadastroFuncs
             // 
             this.label28.AutoSize = true;
             this.label28.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label28.Location = new System.Drawing.Point(29, 208);
+            this.label28.Location = new System.Drawing.Point(23, 208);
             this.label28.Name = "label28";
             this.label28.Size = new System.Drawing.Size(97, 13);
             this.label28.TabIndex = 59;
@@ -572,7 +574,7 @@ namespace CadastroFuncs
             "Marketing",
             "Compras",
             "Comercial"});
-            this.cb_setor.Location = new System.Drawing.Point(29, 132);
+            this.cb_setor.Location = new System.Drawing.Point(23, 132);
             this.cb_setor.Name = "cb_setor";
             this.cb_setor.Size = new System.Drawing.Size(127, 21);
             this.cb_setor.TabIndex = 61;
@@ -670,7 +672,7 @@ namespace CadastroFuncs
             this.panel1.Controls.Add(this.label15);
             this.panel1.Controls.Add(this.label16);
             this.panel1.Controls.Add(this.mTB_Nascimento);
-            this.panel1.Location = new System.Drawing.Point(25, 68);
+            this.panel1.Location = new System.Drawing.Point(12, 34);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(476, 368);
             this.panel1.TabIndex = 68;
@@ -704,7 +706,7 @@ namespace CadastroFuncs
             this.panel2.Controls.Add(this.label25);
             this.panel2.Controls.Add(this.label26);
             this.panel2.Controls.Add(this.mTB_serie);
-            this.panel2.Location = new System.Drawing.Point(507, 68);
+            this.panel2.Location = new System.Drawing.Point(507, 34);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(209, 275);
             this.panel2.TabIndex = 69;
@@ -718,7 +720,7 @@ namespace CadastroFuncs
             this.panel3.Controls.Add(this.bt_Localizar);
             this.panel3.Controls.Add(this.bt_Excluir);
             this.panel3.Controls.Add(this.bt_Novo);
-            this.panel3.Location = new System.Drawing.Point(507, 349);
+            this.panel3.Location = new System.Drawing.Point(507, 315);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(209, 87);
             this.panel3.TabIndex = 70;
@@ -741,7 +743,7 @@ namespace CadastroFuncs
             this.bt_sair.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.MenuHighlight;
             this.bt_sair.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.bt_sair.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-            this.bt_sair.Location = new System.Drawing.Point(707, 3);
+            this.bt_sair.Location = new System.Drawing.Point(706, 1);
             this.bt_sair.Name = "bt_sair";
             this.bt_sair.Size = new System.Drawing.Size(25, 25);
             this.bt_sair.TabIndex = 6;
@@ -750,6 +752,7 @@ namespace CadastroFuncs
             // 
             // panel4
             // 
+            this.panel4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel4.Controls.Add(this.bt_sair);
             this.panel4.Location = new System.Drawing.Point(0, 0);
             this.panel4.Name = "panel4";
@@ -759,6 +762,18 @@ namespace CadastroFuncs
             this.panel4.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
             this.panel4.MouseUp += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseUp);
             // 
+            // panel5
+            // 
+            this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel5.Controls.Add(this.label7);
+            this.panel5.Controls.Add(this.panel3);
+            this.panel5.Controls.Add(this.panel1);
+            this.panel5.Controls.Add(this.panel2);
+            this.panel5.Location = new System.Drawing.Point(0, 30);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(736, 431);
+            this.panel5.TabIndex = 72;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -766,10 +781,7 @@ namespace CadastroFuncs
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(736, 461);
-            this.Controls.Add(this.panel3);
-            this.Controls.Add(this.panel2);
-            this.Controls.Add(this.panel1);
-            this.Controls.Add(this.label7);
+            this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel4);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -783,8 +795,9 @@ namespace CadastroFuncs
             this.panel2.PerformLayout();
             this.panel3.ResumeLayout(false);
             this.panel4.ResumeLayout(false);
+            this.panel5.ResumeLayout(false);
+            this.panel5.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -855,6 +868,7 @@ namespace CadastroFuncs
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Button bt_Cadastrar;
         private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.Panel panel5;
     }
 }
 
